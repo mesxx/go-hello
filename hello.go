@@ -1,5 +1,5 @@
 package go_hello
 
 func Hello() string {
-	return "Ini Version 2"
+	return "Ini Version 1.5"
 }
